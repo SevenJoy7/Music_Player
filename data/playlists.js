@@ -1,22 +1,22 @@
 var listPlaylist = [
     {
-        name: "V-Pop: The A-List",
+        name: "Thờ Phượng - Ngợi Khen",
         creator: "Zing MP3",
         image: "./assets/img/playlists/playlist1.jpg"
     },
     {
-        name: "Rồi Tới Luôn",
-        creator: "Nal",
+        name: "Kêu Gọi Tin Lành",
+        creator: "Seven",
         image: "./assets/img/playlists/playlist2.jpg"
     },
     {
-        name: "Nhạc Q.Tế",
-        creator: "Lạc Trôi",
+        name: "Worship Band",
+        creator: "Shalom",
         image: "./assets/img/playlists/playlist3.jpg"
     },
     {
-        name: "Những bản hit của Rap Việt",
-        creator: "Bigcityboi",
+        name: "Nhạc Tình Yêu Tin Lành",
+        creator: "Christians",
         image: "./assets/img/playlists/playlist4.jpg"
     },
     {
